@@ -1,7 +1,9 @@
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
+from art import welcome
 
+print(welcome)
 question_bank = []
 for question in question_data:
     question_bank.append(Question(question["question"], question["correct_answer"]))
