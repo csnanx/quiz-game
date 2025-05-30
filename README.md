@@ -13,8 +13,6 @@ This is a command-line quiz game built using **Object-Oriented Programming** in 
 
 ---
 
----
-
 ## 🛠️ How to Run
 
 ### Prerequisites
