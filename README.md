@@ -1,6 +1,6 @@
 # 🧠 Quiz Game (OOP Edition)
 
-This is a command-line quiz game built using **Object-Oriented Programming** in Python. The game presents multiple-choice questions to the user, keeps track of the score, and displays the final result. It uses custom classes and structured design to ensure scalability and readability.
+This is a command-line quiz game built using **Object-Oriented Programming** in Python. The game presents True/False questions to the user, keeps track of the score, and displays the final result. It uses custom classes and structured design to ensure scalability and readability.
 
 ---
 
