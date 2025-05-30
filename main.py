@@ -16,4 +16,4 @@ while quiz.still_has_questions():
     quiz.next_question()
 
 print("You've completed the quiz")
-print(f"Your final score is: {quiz.score}/{len(question_bank)}")
+print(f"Your final score is: {quiz.score}/{len(question_bank)} ({round(quiz.score / len(question_bank) * 100, 2)}%)")
